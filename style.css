@@ -1,0 +1,103 @@
+*{
+    margin: 0; 
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(13, 13, 13);
+}
+.logo{
+    margin: 30px 70px;
+    font-size: 22px;
+    color: white;
+}
+.container1{
+    width: 25%;
+    height: 440px;
+    border: 3px solid grey;
+    background-color: black;
+    margin: 0 38%;
+    margin-top: 2%;
+
+}
+.container2{
+    width: 25%;
+    height: 100px;
+    border: 3px solid grey;
+    background-color: black;
+    margin: 8px 38%;
+}
+.info{
+    border: 2px solid black;
+}
+.input{
+    width: 80%;
+    height: 35px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    border: 2px solid grey;
+    border-radius: 5px ;
+    padding-left: 6px;
+    text-transform: capitalize;
+    color: white;
+}
+.btn{
+    width: 81%;
+    height: 40px;
+    margin-left: 32px;
+    background-color: #007bfc;
+    margin-top: 20px;
+    border-radius: 8px ;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 700;
+    font-size: 17px;
+}
+.hero{
+    color: grey;
+    text-transform: uppercase;
+    margin: 15px 46%;
+}
+.hero1{
+    color: #007bfc;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-left: 8px;
+}
+.new1{
+    margin-top: 5px;
+}
+.new{
+    /* border: 2px solid red; */
+    display: flex;
+    padding-top: 10px;
+    /* width: 50%; */
+}
+.fb-logo{
+    margin-left: 24%;
+}
+.hero1:hover{
+    color: white;
+
+}
+.end{
+    color: white;
+    text-transform: capitalize;
+    /* border: 2px solid red; */
+    text-align: center;
+    margin-top: 15px;
+}
+.para{
+    color: white;
+    /* border: 2px solid red; */
+    text-transform: capitalize;
+    margin: 10% 20%;
+    /* font-size: 17px; */
+
+}
+.para-link{
+    text-decoration: none;
+    color: #007bfc;
+}
+.end-pic{
+    /* border: 2px solid red; */
+    margin: 20px 38%;
+}
